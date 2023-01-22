@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[Saad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saadzafar649&theme=tokyo-night)
+![Saad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saadzafar649&theme=tokyo-night)
